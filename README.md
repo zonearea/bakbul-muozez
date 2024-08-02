@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bakbul-muozez
-- 👀 I’m interested in code world
-- 🌱 I’m currently learning dart
+- Hi, I'm muozez,
+- We are the Bakbul Tech Team 
+- I frequently use node, SQL, react, flutter, python, php
 
 
   linkedin: 
